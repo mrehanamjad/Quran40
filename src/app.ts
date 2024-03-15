@@ -2,7 +2,7 @@ const playlist = document.querySelector("#playlist") as HTMLDivElement;
 const playI = document.querySelector("#play-i") as HTMLElement;
 let audio: HTMLAudioElement;
 let currentIndex: number = 0;
-let isplaying = false;
+let isplaying:boolean = false;
 let translationLangIs: string = localStorage.getItem("Quran40-Tlang") || "";
 
 // Function to display the playlist:
