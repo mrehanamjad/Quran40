@@ -1,0 +1,16 @@
+{
+  "name": "quran40",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tailwindcss -i ./input.css -o ./ui/output.css --watch",
+    "dev": "tsc --watch",
+  },
+  "author": "M.Rehan Amjad",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
