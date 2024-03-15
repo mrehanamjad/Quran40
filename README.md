@@ -2,6 +2,8 @@
 
 This project offers a user-friendly platform to engage with the Holy Quran through an interactive audio player and comprehensive multilingual support.
 
+**Lounch:**  https://quran40.netlify.app/
+
 **Features:**
 
 - Immersive audio player for recitations in various languages.
