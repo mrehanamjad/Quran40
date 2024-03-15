@@ -20,11 +20,3 @@ This project offers a user-friendly platform to engage with the Holy Quran throu
 - TypeScript
 - Apis
 
-
-**Running the Project:**
-
-1. **Prerequisites:**
-   - Node.js and npm (or yarn)
-2. **Installation:**
-   ```bash
-   npm install  # or yarn install
