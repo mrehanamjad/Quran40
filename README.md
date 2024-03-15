@@ -9,6 +9,7 @@ This project offers a user-friendly platform to engage with the Holy Quran throu
 - Intuitive interface for a streamlined learning experience.
 - User-selectable language preference.
 - Local storage retains your language choice for future visits.
+- Responsive design for optimal viewing on any device.
 
 **Technologies:**
 
